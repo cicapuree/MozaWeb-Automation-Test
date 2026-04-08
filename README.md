@@ -9,7 +9,7 @@ A fejlesztői környezet termináljába a következő sorokat írtam:
 "playwright install"
 
 
-Virtuális környezet létrehozása és aktiválása (nem kötelező, de ajánlom :)):
+Virtuális környezet létrehozása és aktiválása:
 
 "py -m venv venv"
 ".\venv\Scripts\activate"

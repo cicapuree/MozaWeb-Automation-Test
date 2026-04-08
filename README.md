@@ -3,10 +3,9 @@ Futtatás menete röviden:
 Először is, győződjön meg arról, hogy a Python telepítve van a gépen.
 
 A fejlesztői környezet termináljába a következő sorokat írtam:
-
+(ezek akkor kellenek, ha még nincs meg a Playwright)
 
 "pip install playwright" 
-                            (ezek akkor kellenek, ha még nincs meg a Playwright)
 "playwright install"
 
 
